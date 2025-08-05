@@ -261,16 +261,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
+Deepak Dubey - [deepakmzpd@gmail.com]
 ## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Apollo team for GraphQL tooling
-- MongoDB team for the database
-- Open source community for inspiration
-
----
-
-**Happy Coding! 🎉**
-\`\`\`
